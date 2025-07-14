@@ -1,2 +1,1 @@
-# abhi
-sj
+print("hello world")
